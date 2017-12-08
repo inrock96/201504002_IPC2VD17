@@ -1,0 +1,3 @@
+commit: guarda los cambios hechos desde el último commit
+merge: fusiona una cantidad de ramas en una sola
+Pull sirve para actualizar los últimos datos y pull toma todos los datos de un último push
