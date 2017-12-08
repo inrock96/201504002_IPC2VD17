@@ -1,0 +1,2 @@
+es el modelo tradicional que consiste en que se va en orden de paso en paso y conforme se avanza y se regresa solo al llegar 
+a la parte de mantenimiento.

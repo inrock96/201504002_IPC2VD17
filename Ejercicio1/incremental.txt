@@ -1,0 +1,2 @@
+emplea secuencias y de los pasos del ciclo de vida del software una y otra vez
+haciendo distintas versiones a lo largo del tiempo

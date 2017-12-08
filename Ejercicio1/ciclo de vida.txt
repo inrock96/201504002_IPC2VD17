@@ -1,0 +1,6 @@
+Analisis: Se define el problema y todos los requerimientos que se necesitaran
+Diseño: Se clasifican los requerimientos y se determina COMO se va a resolver
+Desarrollo: es todo respecto codificación inicial del software
+Pruebas: se hacen las pruebas del software
+Implementación: instalación del producto
+Mantenimiento: se hacen mejoras, se eliminan bugs, se añaden funciones etc.
